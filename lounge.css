@@ -88,3 +88,19 @@ h2 {
   font-weight: bold;
   color: #d12c47;
 }
+#elixirs a:link {
+  color: #007e7e;
+}
+#elixirs a:visited {
+  color: #333333;
+}
+#elixirs a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
+#directions a:link {
+  color: #f88396;
+}
+#directions a:hover {
+  background: #d12c47;
+}
