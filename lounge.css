@@ -15,6 +15,7 @@ h1 {
 h2 {
   font-size:           130%;
 }
+
 .guarantee {
   line-height: 1.9em;
   font-style: italic;
@@ -32,6 +33,7 @@ h2 {
   background-repeat: no-repeat;
   background-position: top left;
 }
+
 #footer {
   line-height: 1.9em;
   font-style: italic;
@@ -49,6 +51,7 @@ h2 {
   background-repeat: no-repeat;
   background-position: top left;
 }
+
 #elixirs {
   border-width: thin;
   border-style: solid;
@@ -63,15 +66,25 @@ h2 {
 
   margin-left: 20px;
 
-
   text-align: center;
 
   background-image: url(./images/cocktail.gif);
   background-repeat: repeat-x;
 }
+
 #elixirs h2 {
   color:black
 }
 #elixirs h3 {
+  color: #d12c47;
+}
+
+.cd {
+  font-style: italic;
+  color: navy;
+}
+
+.artist {
+  font-weight: bold;
   color: #d12c47;
 }
